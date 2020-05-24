@@ -4,6 +4,7 @@ module.exports = {
             resolve: `gatsby-theme-gine-blog`,
             options: {
                 configTable: "https://www.notion.so/9d40936c902c47ea864cbdf5eccccada?v=9ead4407cac245e9b6684b53a761dc60"
+                
             }
         },
         {
